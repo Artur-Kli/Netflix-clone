@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> renders the <Card /> and toggles the card feature 1`] = `
+<div
+  class="card__Group-nj3v1v-2 hlRNAY"
+>
+  <div
+    class="card__Container-nj3v1v-1 ivkdbL"
+  >
+    <p
+      class="card__Title-nj3v1v-0 bXtaKd"
+    >
+      Documentaries
+    </p>
+    <div
+      class="card__Entities-nj3v1v-5 bUCfWW"
+    >
+      <div
+        class="card__Item-nj3v1v-8 kyioOH"
+        data-testid="citizenfour-item-feature"
+      >
+        <img
+          class="card__Image-nj3v1v-7 dTcyia"
+          src="/images/series/documentaries/citizenfour/small.jpg"
+        />
+        <div
+          class="card__Meta-nj3v1v-6 EpMVu"
+        >
+          <p
+            class="card__SubTitle-nj3v1v-3 hOxNKF"
+          >
+            Citizenfour
+          </p>
+          <p
+            class="card__Text-nj3v1v-4 jwbcTw"
+          >
+            Citizenfour is a 2014 documentary film directed by Laura Poitras, concerning Edward Snowden and the NSA spying scandal.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="card__Container-nj3v1v-1 ivkdbL"
+  >
+    <p
+      class="card__Title-nj3v1v-0 bXtaKd"
+    >
+      Feel Good
+    </p>
+    <div
+      class="card__Entities-nj3v1v-5 bUCfWW"
+    >
+      <div
+        class="card__Item-nj3v1v-8 kyioOH"
+        data-testid="school-of-rock-item-feature"
+      >
+        <img
+          class="card__Image-nj3v1v-7 dTcyia"
+          src="/images/series/feel-good/school-of-rock/small.jpg"
+        />
+        <div
+          class="card__Meta-nj3v1v-6 EpMVu"
+        >
+          <p
+            class="card__SubTitle-nj3v1v-3 hOxNKF"
+          >
+            School of Rock
+          </p>
+          <p
+            class="card__Text-nj3v1v-4 jwbcTw"
+          >
+            Dewey Finn, an amateur rock enthusiast, slyly takes up his friend's substitute teacher's job. Bearing no qualifications for it, he instead starts training the students to form a band.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Card /> renders the <Card /> with populated data 1`] = `
+<div
+  class="card__Group-nj3v1v-2 hlRNAY"
+>
+  <div
+    class="card__Container-nj3v1v-1 ivkdbL"
+  >
+    <p
+      class="card__Title-nj3v1v-0 bXtaKd"
+    >
+      Documentaries
+    </p>
+    <div
+      class="card__Entities-nj3v1v-5 bUCfWW"
+    >
+      <div
+        class="card__Item-nj3v1v-8 kyioOH"
+      >
+        <img
+          class="card__Image-nj3v1v-7 dTcyia"
+          src="/images/series/documentaries/citizenfour/small.jpg"
+        />
+        <div
+          class="card__Meta-nj3v1v-6 EpMVu"
+        >
+          <p
+            class="card__SubTitle-nj3v1v-3 hOxNKF"
+          >
+            Citizenfour
+          </p>
+          <p
+            class="card__Text-nj3v1v-4 jwbcTw"
+          >
+            Citizenfour is a 2014 documentary film directed by Laura Poitras, concerning Edward Snowden and the NSA spying scandal.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="card__Container-nj3v1v-1 ivkdbL"
+  >
+    <p
+      class="card__Title-nj3v1v-0 bXtaKd"
+    >
+      Feel Good
+    </p>
+    <div
+      class="card__Entities-nj3v1v-5 bUCfWW"
+    >
+      <div
+        class="card__Item-nj3v1v-8 kyioOH"
+      >
+        <img
+          class="card__Image-nj3v1v-7 dTcyia"
+          src="/images/series/feel-good/school-of-rock/small.jpg"
+        />
+        <div
+          class="card__Meta-nj3v1v-6 EpMVu"
+        >
+          <p
+            class="card__SubTitle-nj3v1v-3 hOxNKF"
+          >
+            School of Rock
+          </p>
+          <p
+            class="card__Text-nj3v1v-4 jwbcTw"
+          >
+            Dewey Finn, an amateur rock enthusiast, slyly takes up his friend's substitute teacher's job. Bearing no qualifications for it, he instead starts training the students to form a band.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
